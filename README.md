@@ -11,12 +11,12 @@
 ### Minhas tecnologias:
 
 <div style = "display: inline_block"> <br/>
-    <img  align="center" alt = "html5" src="https://img.shields.io/badge/Figma-1B1B1D?style=for-the-badge&logo=figma&logoColor=white">
-    <img  align="center" alt = "html5" src=" https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
-    <img  align="center" alt = "html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img  align="center" alt = "html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img  align="center" alt = "css" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-    <img  align="center" alt = "css" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF">
+    <img  align="center" alt = "html5" src="https://img.shields.io/badge/Figma-272727?style=for-the-badge&logo=figma&logoColor=FF7300">
+    <img  align="center" alt = "html5" src=" https://img.shields.io/badge/Wordpress-272727?style=for-the-badge&logo=wordpress&logoColor=FF7300">
+    <img  align="center" alt = "html5" src="https://img.shields.io/badge/HTML5-272727?style=for-the-badge&logo=html5&logoColor=FF7300">
+    <img  align="center" alt = "html5" src="https://img.shields.io/badge/JavaScript-272727?style=for-the-badge&logo=javascript&logoColor=FF7300">
+    <img  align="center" alt = "css" src="https://img.shields.io/badge/Sass-272727?style=for-the-badge&logo=sass&logoColor=FF7300">
+    <img  align="center" alt = "css" src="https://img.shields.io/badge/React-272727?style=for-the-badge&logo=react&logoColor=FF7300">
 </div><br/>
 
 Estudante de Sistemas de informação dando os primeiros passsos no universo da programação!
