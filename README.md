@@ -1,3 +1,5 @@
+### Redes sociais
+
 [![Intagram](https://img.shields.io/badge/Instagram-1B1B1D?style=for-the-badge&logo=instagram&logoColor=FF7300)](https://www.instagram.com/felipec_castilho/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-1B1B1D?style=for-the-badge&logo=linkedin&logoColor=FF7300)](https://www.linkedin.com/in/felipe-coutinho-141354243/)
 [![Behance](https://img.shields.io/badge/Behance-1B1B1D?style=for-the-badge&logo=behance&logoColor=FF7300)](https://www.behance.net/felipecoutinho10)
@@ -15,5 +17,3 @@
     <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-1B1B1D?style=for-the-badge&logo=sass&logoColor=FF7300">
     <img align="center" alt="react" src="https://img.shields.io/badge/React-1B1B1D?style=for-the-badge&logo=react&logoColor=FF7300">
 </div><br/>
-
-Estudante de Sistemas de informação dando os primeiros passsos no universo da programação!
