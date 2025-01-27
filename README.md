@@ -13,7 +13,6 @@
 <div style = "display: inline_block"> <br/>
     <img  align="center" alt = "html5" src="https://img.shields.io/badge/Figma-272727?style=for-the-badge&logo=figma&logoColor=FF7300">
     <img  align="center" alt = "html5" src=" https://img.shields.io/badge/Wordpress-272727?style=for-the-badge&logo=wordpress&logoColor=FF7300">
-    <img  align="center" alt = "html5" src="https://img.shields.io/badge/HTML5-272727?style=for-the-badge&logo=html5&logoColor=FF7300">
     <img  align="center" alt = "html5" src="https://img.shields.io/badge/JavaScript-272727?style=for-the-badge&logo=javascript&logoColor=FF7300">
     <img  align="center" alt = "css" src="https://img.shields.io/badge/Sass-272727?style=for-the-badge&logo=sass&logoColor=FF7300">
     <img  align="center" alt = "css" src="https://img.shields.io/badge/React-272727?style=for-the-badge&logo=react&logoColor=FF7300">
